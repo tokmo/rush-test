@@ -402,6 +402,10 @@
 	{
 		"packageName": "@tokmo/frontend",
 		"projectFolder": "apps/frontend"
+	  },
+	  {
+		"packageName": "@tokmo/backend",
+		"projectFolder": "apps/backend"
 	  }
     // {
     //   /**
